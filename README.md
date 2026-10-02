@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hadia Mudassar
 
-<!--
-**HadiaMudassar/HadiaMudassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Data Science undergraduate student at UET Lahore.
+I am interested in software development, data analysis, and
+learning new technologies. I am currently developing my
+programming and software engineering skills through academic
+projects and practical work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, C#, SQL |
+| Tools | Git, GitHub, VS Code |
+| Data | Pandas, NumPy, Power BI |
+
+## Featured Projects
+
+### EcoCycle
+A waste management and recycling tracking system developed
+as an academic project.
+
+### GigLens
+A gig job market analytics system that analyzes job data,
+skills, salaries, and locations.
+
+## Education
+
+**Bachelor of Science in Data Science**  
+University of Engineering and Technology (UET), Lahore
+
+## Contact
+
+- Email: your-email@example.com
+- LinkedIn: Your LinkedIn Profile
+- GitHub: Your GitHub Profile
